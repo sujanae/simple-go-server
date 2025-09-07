@@ -1,3 +1,7 @@
+
+##Steps
+
+
 -Install latest version of go.
 -open a cmd in your project directory
   -example:C://home/projects/go-projects/go-server>
